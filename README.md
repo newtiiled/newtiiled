@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+### Welcome to my GitHub
+Feel free to browse through my repositories!
 
 <!--
 **newtiiled/newtiiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
